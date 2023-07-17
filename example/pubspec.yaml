@@ -41,7 +41,7 @@ dependencies:
   vibration: ^1.7.7
   device_info: ^2.0.3
   url_launcher: ^6.1.11
-  intl: ^0.18.1
+  intl: ^0.18.0
   palette_generator: ^0.3.3+2
 
 dev_dependencies:
